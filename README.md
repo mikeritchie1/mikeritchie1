@@ -1,4 +1,4 @@
-# Hi, I'm Michael Ritchie
+# Hi, I'm Mike Ritchie
 
 I'm an AI Engineer / Data Scientist with a PhD in Electrical & Electronic Engineering, focused on building practical AI tools, semantic search systems, data-driven applications, and automation projects.
 
