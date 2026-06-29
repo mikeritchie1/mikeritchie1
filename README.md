@@ -35,8 +35,3 @@ A scraper and filtering system for finding relevant local events from multiple s
 - RAG and semantic search
 - LLM-powered workflows
 - Clean, useful personal automation tools
-
-## Links
-
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- GitHub: https://github.com/YOUR-USERNAME
